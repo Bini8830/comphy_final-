@@ -1,0 +1,24 @@
+
+
+### A+ #####
+
+#Reason
+#1 
+#Thorough Understanding of the Topic:
+#The report demonstrates a deep understanding of both numerical methods 
+#and machine learning techniques for time series prediction.
+#The clear comparison between Euler's Method and RNN-based models (LSTM, GRU, and Bi-GRU)
+#highlights my ability to integrate foundational knowledge with advanced methods.
+
+#2
+#Clear and Structured Presentation:
+#The presentation is well-organized with clear sections, including Data Collection, Numerical Methods, Machine Learning Models, Code Implementation, and Results.
+#The addition of a Discussion section on RNN structures further enriches the analysis.
+
+
+#3
+#Application Relevance
+#By focusing on wave height prediction, an application with significant implications 
+#for maritime safety and disaster preparedness, you demonstrated the real-world value of your work.
+
+
